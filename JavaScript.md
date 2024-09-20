@@ -1,5 +1,5 @@
 - https://jsonplaceholder.typicode.com/todos => For dummy data for get request
-- https://dummyjson.com/docs/products => For dummy data for other CURD request
+- https://dummyjson.com/docs/products => For dummy data for other CRUD request
 
 - document.write() --> don't use it after the document is loaded
 - window.print() --> To print the page
